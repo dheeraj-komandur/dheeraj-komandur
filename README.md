@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on cool ML stuff
 - 💬 Ask me about Hackathons!
 - 😄 Pronouns: He / Him
-- Reach me :
+
+##### Contact Me
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/dheeraj-komandur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-komandur/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:dheerajkomandur@gmail.com)
